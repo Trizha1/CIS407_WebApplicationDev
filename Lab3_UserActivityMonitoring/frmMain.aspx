@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="frmMain.aspx.cs" Inherits="Lab1_AnnualSalaryCalculator.frmMain" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="frmMain.aspx.cs" Inherits="Lab1_AnnualSalaryCalculator.frmMain" %>
 
 <!DOCTYPE html>
 
